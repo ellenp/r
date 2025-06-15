@@ -1,0 +1,8 @@
+it's like python. >_<
+
+it has 3 numeric data types:
+1. numeric
+2. integer
+3. complex (HAHA it used the math convention "i")
+
+class(var) ---> to determine data type
